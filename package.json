@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A mega project of Backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Backend Laxit"
+  },
+  "author": "Laxit Raiyani",
+  "license": "ISC"
+}
